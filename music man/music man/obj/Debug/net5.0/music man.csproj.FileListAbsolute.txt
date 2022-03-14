@@ -1,0 +1,49 @@
+C:\Users\charith fernando\Documents\coreapp\music man\music man\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\charith fernando\Documents\coreapp\music man\music man\bin\Debug\net5.0\appsettings.json
+C:\Users\charith fernando\Documents\coreapp\music man\music man\bin\Debug\net5.0\music man.exe
+C:\Users\charith fernando\Documents\coreapp\music man\music man\bin\Debug\net5.0\music man.deps.json
+C:\Users\charith fernando\Documents\coreapp\music man\music man\bin\Debug\net5.0\music man.runtimeconfig.json
+C:\Users\charith fernando\Documents\coreapp\music man\music man\bin\Debug\net5.0\music man.runtimeconfig.dev.json
+C:\Users\charith fernando\Documents\coreapp\music man\music man\bin\Debug\net5.0\music man.dll
+C:\Users\charith fernando\Documents\coreapp\music man\music man\bin\Debug\net5.0\ref\music man.dll
+C:\Users\charith fernando\Documents\coreapp\music man\music man\bin\Debug\net5.0\music man.pdb
+C:\Users\charith fernando\Documents\coreapp\music man\music man\bin\Debug\net5.0\music man.Views.dll
+C:\Users\charith fernando\Documents\coreapp\music man\music man\bin\Debug\net5.0\music man.Views.pdb
+C:\Users\charith fernando\Documents\coreapp\music man\music man\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\charith fernando\Documents\coreapp\music man\music man\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\charith fernando\Documents\coreapp\music man\music man\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\charith fernando\Documents\coreapp\music man\music man\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\charith fernando\Documents\coreapp\music man\music man\obj\Debug\net5.0\music man.csproj.AssemblyReference.cache
+C:\Users\charith fernando\Documents\coreapp\music man\music man\obj\Debug\net5.0\music man.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charith fernando\Documents\coreapp\music man\music man\obj\Debug\net5.0\music man.AssemblyInfoInputs.cache
+C:\Users\charith fernando\Documents\coreapp\music man\music man\obj\Debug\net5.0\music man.AssemblyInfo.cs
+C:\Users\charith fernando\Documents\coreapp\music man\music man\obj\Debug\net5.0\music man.csproj.CoreCompileInputs.cache
+C:\Users\charith fernando\Documents\coreapp\music man\music man\obj\Debug\net5.0\music man.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\charith fernando\Documents\coreapp\music man\music man\obj\Debug\net5.0\music man.RazorAssemblyInfo.cache
+C:\Users\charith fernando\Documents\coreapp\music man\music man\obj\Debug\net5.0\music man.RazorAssemblyInfo.cs
+C:\Users\charith fernando\Documents\coreapp\music man\music man\obj\Debug\net5.0\staticwebassets\music man.StaticWebAssets.Manifest.cache
+C:\Users\charith fernando\Documents\coreapp\music man\music man\obj\Debug\net5.0\scopedcss\bundle\music man.styles.css
+C:\Users\charith fernando\Documents\coreapp\music man\music man\obj\Debug\net5.0\music man.TagHelpers.input.cache
+C:\Users\charith fernando\Documents\coreapp\music man\music man\obj\Debug\net5.0\music man.TagHelpers.output.cache
+C:\Users\charith fernando\Documents\coreapp\music man\music man\obj\Debug\net5.0\music man.RazorCoreGenerate.cache
+C:\Users\charith fernando\Documents\coreapp\music man\music man\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\charith fernando\Documents\coreapp\music man\music man\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\charith fernando\Documents\coreapp\music man\music man\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\charith fernando\Documents\coreapp\music man\music man\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\charith fernando\Documents\coreapp\music man\music man\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\charith fernando\Documents\coreapp\music man\music man\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\charith fernando\Documents\coreapp\music man\music man\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\charith fernando\Documents\coreapp\music man\music man\obj\Debug\net5.0\music man.RazorTargetAssemblyInfo.cache
+C:\Users\charith fernando\Documents\coreapp\music man\music man\obj\Debug\net5.0\music man.RazorTargetAssemblyInfo.cs
+C:\Users\charith fernando\Documents\coreapp\music man\music man\obj\Debug\net5.0\music man.Views.pdb
+C:\Users\charith fernando\Documents\coreapp\music man\music man\obj\Debug\net5.0\music man.csproj.CopyComplete
+C:\Users\charith fernando\Documents\coreapp\music man\music man\obj\Debug\net5.0\music man.dll
+C:\Users\charith fernando\Documents\coreapp\music man\music man\obj\Debug\net5.0\ref\music man.dll
+C:\Users\charith fernando\Documents\coreapp\music man\music man\obj\Debug\net5.0\music man.pdb
+C:\Users\charith fernando\Documents\coreapp\music man\music man\obj\Debug\net5.0\music man.genruntimeconfig.cache
+C:\Users\charith fernando\Documents\coreapp\music man\music man\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\charith fernando\Documents\coreapp\music man\music man\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\charith fernando\Documents\coreapp\music man\music man\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\charith fernando\Documents\coreapp\music man\music man\bin\Debug\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\charith fernando\Documents\coreapp\music man\music man\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\charith fernando\Documents\coreapp\music man\music man\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
